@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  ITTeamDemo
+//  IT007GitDemo
 //
 //  Created by mac on 16/6/24.
 //  Copyright © 2016年 dong. All rights reserved.
@@ -9,9 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-{
-    NSInteger time;
-}
+
 @end
 
 @implementation ViewController
