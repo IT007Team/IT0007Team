@@ -11,6 +11,7 @@
 @interface AppDelegate ()
 {
     NSInteger _num;
+    NSString *str;
 }
 @end
 
